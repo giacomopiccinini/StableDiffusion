@@ -1,0 +1,8 @@
+venv/
+.hugging_face
+*.ipynb
+__pycache__
+.ipynb_checkpoints
+Output/*/
+*.png
+*.txt
